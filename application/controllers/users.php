@@ -33,6 +33,10 @@ class Users extends CI_Controller {
 		}
 
 	}
+
+	function update(){
+
+	}
 }
 
 /* End of file welcome.php */
